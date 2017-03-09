@@ -1,0 +1,24 @@
+{
+  "name": "facebook-post-interpreter",
+  "version": "0.0.1",
+  "description": "Reading and Understanding Facebook Posts in a group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nischay-Pro/Facebook-Post-Interpreter.git"
+  },
+  "keywords": [
+    "facebook",
+    "post",
+    "interpreter"
+  ],
+  "author": "Nischay pro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nischay-Pro/Facebook-Post-Interpreter/issues"
+  },
+  "homepage": "https://github.com/Nischay-Pro/Facebook-Post-Interpreter#readme"
+}
